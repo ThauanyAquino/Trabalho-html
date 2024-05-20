@@ -1,0 +1,23 @@
+
+.titulo{
+    text-align: center;
+
+}
+
+.subtitulo{
+    text-align: center;
+    padding: 12px;
+}
+
+.h2{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(253, 133, 171);
+}
+
+.aquinos.jph{
+    justify-content: center;
+}
+   
